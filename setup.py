@@ -16,8 +16,7 @@ setup(
         "seaborn",
         "jupyterlab",
         "ipykernel",
-        "h5py",
-        "rpy2"
+        "h5py"
     ]
 )
 
